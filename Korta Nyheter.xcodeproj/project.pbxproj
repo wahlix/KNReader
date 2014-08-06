@@ -19,17 +19,18 @@
 		357FBCE41712BB70000B40F4 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 357FBCE21712BB70000B40F4 /* MainStoryboard.storyboard */; };
 		357FBCE71712BB70000B40F4 /* APPMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 357FBCE61712BB70000B40F4 /* APPMasterViewController.m */; };
 		357FBCEA1712BB70000B40F4 /* APPDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 357FBCE91712BB70000B40F4 /* APPDetailViewController.m */; };
+		DC8515981991ABE900B960EA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC8515971991ABE900B960EA /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		357FBCC71712BB70000B40F4 /* RSSreader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSSreader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		357FBCC71712BB70000B40F4 /* Korta Nyheter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Korta Nyheter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		357FBCCA1712BB70000B40F4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		357FBCCC1712BB70000B40F4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		357FBCCE1712BB70000B40F4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		357FBCD21712BB70000B40F4 /* RSSreader-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RSSreader-Info.plist"; sourceTree = "<group>"; };
+		357FBCD21712BB70000B40F4 /* Korta Nyheter-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Korta Nyheter-Info.plist"; sourceTree = "<group>"; };
 		357FBCD41712BB70000B40F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		357FBCD61712BB70000B40F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		357FBCD81712BB70000B40F4 /* RSSreader-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RSSreader-Prefix.pch"; sourceTree = "<group>"; };
+		357FBCD81712BB70000B40F4 /* Korta Nyheter-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Korta Nyheter-Prefix.pch"; sourceTree = "<group>"; };
 		357FBCD91712BB70000B40F4 /* APPAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = APPAppDelegate.h; sourceTree = "<group>"; };
 		357FBCDA1712BB70000B40F4 /* APPAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = APPAppDelegate.m; sourceTree = "<group>"; };
 		357FBCDC1712BB70000B40F4 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		357FBCE61712BB70000B40F4 /* APPMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = APPMasterViewController.m; sourceTree = "<group>"; };
 		357FBCE81712BB70000B40F4 /* APPDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = APPDetailViewController.h; sourceTree = "<group>"; };
 		357FBCE91712BB70000B40F4 /* APPDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = APPDetailViewController.m; sourceTree = "<group>"; };
+		DC8515971991ABE900B960EA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +70,7 @@
 		357FBCC81712BB70000B40F4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				357FBCC71712BB70000B40F4 /* RSSreader.app */,
+				357FBCC71712BB70000B40F4 /* Korta Nyheter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,6 +95,7 @@
 				357FBCE61712BB70000B40F4 /* APPMasterViewController.m */,
 				357FBCE81712BB70000B40F4 /* APPDetailViewController.h */,
 				357FBCE91712BB70000B40F4 /* APPDetailViewController.m */,
+				DC8515971991ABE900B960EA /* Images.xcassets */,
 				357FBCD11712BB70000B40F4 /* Supporting Files */,
 			);
 			path = RSSreader;
@@ -101,10 +104,10 @@
 		357FBCD11712BB70000B40F4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				357FBCD21712BB70000B40F4 /* RSSreader-Info.plist */,
+				357FBCD21712BB70000B40F4 /* Korta Nyheter-Info.plist */,
 				357FBCD31712BB70000B40F4 /* InfoPlist.strings */,
 				357FBCD61712BB70000B40F4 /* main.m */,
-				357FBCD81712BB70000B40F4 /* RSSreader-Prefix.pch */,
+				357FBCD81712BB70000B40F4 /* Korta Nyheter-Prefix.pch */,
 				357FBCDC1712BB70000B40F4 /* Default.png */,
 				357FBCDE1712BB70000B40F4 /* Default@2x.png */,
 				357FBCE01712BB70000B40F4 /* Default-568h@2x.png */,
@@ -115,9 +118,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		357FBCC61712BB70000B40F4 /* RSSreader */ = {
+		357FBCC61712BB70000B40F4 /* Korta Nyheter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 357FBCED1712BB70000B40F4 /* Build configuration list for PBXNativeTarget "RSSreader" */;
+			buildConfigurationList = 357FBCED1712BB70000B40F4 /* Build configuration list for PBXNativeTarget "Korta Nyheter" */;
 			buildPhases = (
 				357FBCC31712BB70000B40F4 /* Sources */,
 				357FBCC41712BB70000B40F4 /* Frameworks */,
@@ -127,9 +130,9 @@
 			);
 			dependencies = (
 			);
-			name = RSSreader;
+			name = "Korta Nyheter";
 			productName = RSSreader;
-			productReference = 357FBCC71712BB70000B40F4 /* RSSreader.app */;
+			productReference = 357FBCC71712BB70000B40F4 /* Korta Nyheter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -140,9 +143,9 @@
 			attributes = {
 				CLASSPREFIX = APP;
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = Appcoda;
+				ORGANIZATIONNAME = "Korta Nyheter";
 			};
-			buildConfigurationList = 357FBCC21712BB70000B40F4 /* Build configuration list for PBXProject "RSSreader" */;
+			buildConfigurationList = 357FBCC21712BB70000B40F4 /* Build configuration list for PBXProject "Korta Nyheter" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -154,7 +157,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				357FBCC61712BB70000B40F4 /* RSSreader */,
+				357FBCC61712BB70000B40F4 /* Korta Nyheter */,
 			);
 		};
 /* End PBXProject section */
@@ -167,6 +170,7 @@
 				357FBCD51712BB70000B40F4 /* InfoPlist.strings in Resources */,
 				357FBCDD1712BB70000B40F4 /* Default.png in Resources */,
 				357FBCDF1712BB70000B40F4 /* Default@2x.png in Resources */,
+				DC8515981991ABE900B960EA /* Images.xcassets in Resources */,
 				357FBCE11712BB70000B40F4 /* Default-568h@2x.png in Resources */,
 				357FBCE41712BB70000B40F4 /* MainStoryboard.storyboard in Resources */,
 			);
@@ -267,10 +271,12 @@
 		357FBCEE1712BB70000B40F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "RSSreader/RSSreader-Prefix.pch";
-				INFOPLIST_FILE = "RSSreader/RSSreader-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "RSSreader/Korta Nyheter-Prefix.pch";
+				INFOPLIST_FILE = "RSSreader/Korta Nyheter-Info.plist";
+				PRODUCT_NAME = "Korta Nyheter";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -278,10 +284,12 @@
 		357FBCEF1712BB70000B40F4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "RSSreader/RSSreader-Prefix.pch";
-				INFOPLIST_FILE = "RSSreader/RSSreader-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "RSSreader/Korta Nyheter-Prefix.pch";
+				INFOPLIST_FILE = "RSSreader/Korta Nyheter-Info.plist";
+				PRODUCT_NAME = "Korta Nyheter";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -289,7 +297,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		357FBCC21712BB70000B40F4 /* Build configuration list for PBXProject "RSSreader" */ = {
+		357FBCC21712BB70000B40F4 /* Build configuration list for PBXProject "Korta Nyheter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				357FBCEB1712BB70000B40F4 /* Debug */,
@@ -298,13 +306,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		357FBCED1712BB70000B40F4 /* Build configuration list for PBXNativeTarget "RSSreader" */ = {
+		357FBCED1712BB70000B40F4 /* Build configuration list for PBXNativeTarget "Korta Nyheter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				357FBCEE1712BB70000B40F4 /* Debug */,
 				357FBCEF1712BB70000B40F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

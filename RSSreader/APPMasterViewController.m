@@ -30,7 +30,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     feeds = [[NSMutableArray alloc] init];
-    NSURL *url = [NSURL URLWithString:@"http://images.apple.com/main/rss/hotnews/hotnews.rss"];
+    NSURL *url = [NSURL URLWithString:@"http://www.kortanyheter.se/feed"];
     parser = [[NSXMLParser alloc] initWithContentsOfURL:url];
     [parser setDelegate:self];
     [parser setShouldResolveExternalEntities:NO];

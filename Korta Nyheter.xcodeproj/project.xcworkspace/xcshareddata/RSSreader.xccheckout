@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A12510F-A39C-4E06-97C1-AE7115B398FA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RSSreader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE0F93AB-B291-494C-BB45-095F8A33EC6E</key>
+		<string>https://github.com/wahlix/KNReader</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RSSreader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE0F93AB-B291-494C-BB45-095F8A33EC6E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wahlix/KNReader</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE0F93AB-B291-494C-BB45-095F8A33EC6E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE0F93AB-B291-494C-BB45-095F8A33EC6E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KNReader</string>
+		</dict>
+	</array>
+</dict>
+</plist>
